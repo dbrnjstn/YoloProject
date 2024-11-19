@@ -1,0 +1,5 @@
+train: D:/dataset/images/train
+val: D:/dataset/images/val
+
+nc: 1
+names: ['license_plate']
